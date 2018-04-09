@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Ciclos Formativos</string>
+    <string name="title_activity_cursos_scrolling">Ciclos</string>
+    <string name="title_activity_scrolling_detalles">Modulos</string>
+    <string name="tituloApp">Desarrollo de App</string>
+    <string name="tituloWeb">Desarrollo de web</string>
+    <string name="tituloAdmon">Administración</string>
+    <string name="tituloComercio">Comercio</string>
+    <string name="tituloMecanizado">Mecanizado</string>
+
+
+    <string name="gSuperior">Ciclo de Grado Superior</string>
+    <string name="gMedio">Ciclo de Grado Medio</string>
+
+    <string name="horas310">310 Horas</string>
+    <string name="horas300">300 Horas</string>
+    <string name="horas280">280 Horas</string>
+    <string name="horas260">260 Horas</string>
+    <string name="horas250">250 Horas</string>
+
+
+    <string name="android">Android</string>
+    <string name="procesos">Procesos</string>
+    <string name="vBasic">Visual Basic</string>
+    <string name="acceso">Acceso a Datos</string>
+    <string name="sap">SAP</string>
+    <string name="iEmpred">Iniciativa Emprendedora</string>
+    <string name="html">HTML</string>
+    <string name="php">PHP</string>
+    <string name="css">CSS</string>
+    <string name="empresa">Empresa</string>
+    <string name="excel">Excel</string>
+    <string name="marketing">Marketing</string>
+    <string name="vistas">Dibujo y vistas</string>
+    <string name="torno">Torno y Fresado</string>
+    <string name="prevencion">Prevención</string>
+    <string name="basesDatos">Bases de datos</string>
+
+    <string name="soloAlumnos">Solo los alumnos pueden ver los ciclos.</string>
+    <string name="tipoUsuario">tipoUsuario</string>
+    <string name="ciclo">ciclo</string>
+    <string name="tUsuario">tipoUsuario</string>
+    <string name="falloAuten">Autenticacion fallida, quedan</string>
+    <string name="apkClose">Aplicacion cerrada, por seguridad.</string>
+    <string name="intentos">intentos.</string>
+    <string name="seleccion">Su seleccion es:</string>
+
+    <string name="userInvitado">INVITADO</string>
+    <string name="userAlumno">ALUMNO</string>
+    <string name="passInvitado">invitado15</string>
+    <string name="passAlumno">alumno15</string>
+    <string name="usuario">USUARIO:</string>
+    <string name="password">PASSWORD:</string>
+
+    <string name="nombre">NOMBRE:</string>
+    <string name="tipo">TIPO:</string>
+    <string name="duracion">DURACION:</string>
+
+</resources>

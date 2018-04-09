@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Training Cycles</string>
+    <string name="title_activity_cursos_scrolling">Cycles</string>
+    <string name="title_activity_scrolling_detalles">Modules</string>
+    <string name="tituloApp">App Development</string>
+    <string name="tituloWeb">Web Development</string>
+    <string name="tituloAdmon">Administration</string>
+    <string name="tituloComercio">Commerce</string>
+    <string name="tituloMecanizado">Machining</string>
+
+
+    <string name="gSuperior">Higher Degree Cycle</string>
+    <string name="gMedio">Middle Grade Cycle</string>
+
+    <string name="horas310">310 Hours</string>
+    <string name="horas300">300 Hours</string>
+    <string name="horas280">280 Hours</string>
+    <string name="horas260">260 Hours</string>
+    <string name="horas250">250 Hours</string>
+
+
+    <string name="android">Android</string>
+    <string name="procesos">Processes</string>
+    <string name="vBasic">Visual Basic</string>
+    <string name="acceso">Data access</string>
+    <string name="sap">SAP</string>
+    <string name="iEmpred">Entrepreneurship</string>
+    <string name="html">HTML</string>
+    <string name="php">PHP</string>
+    <string name="css">CSS</string>
+    <string name="empresa">Company</string>
+    <string name="excel">Excel</string>
+    <string name="marketing">Marketing</string>
+    <string name="vistas">Drawing and views</string>
+    <string name="torno">Lathe and Milling</string>
+    <string name="prevencion">Prevention</string>
+    <string name="basesDatos">Data access</string>
+
+    <string name="soloAlumnos">Only students can see the cycles.</string>
+
+    <string name="falloAuten">Failed Authentication, are left</string>
+    <string name="apkClose">Closed application, for security.</string>
+    <string name="intentos">attempts.</string>
+    <string name="seleccion">Your selection is:</string>
+
+    <string name="userInvitado">INVITADO</string>
+    <string name="userAlumno">ALUMNO</string>
+    <string name="passInvitado">invitado15</string>
+    <string name="passAlumno">alumno15</string>
+
+    <string name="tipoUsuario">tipoUsuario</string>
+    <string name="ciclo">ciclo</string>
+    <string name="tUsuario">tipoUsuario</string>
+
+    <string name="nombre">NAME:</string>
+    <string name="tipo">TYPE:</string>
+    <string name="duracion">DURATION:</string>
+</resources>
